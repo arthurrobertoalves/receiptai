@@ -4,19 +4,21 @@ Tire uma foto da nota fiscal e tenha o gasto organizado automaticamente.
 
 O ReceiptAI é um app para MEIs, freelancers e pequenos negócios que não querem perder tempo digitando recibo. O usuário fotografa a nota e um modelo de visão extrai valor, estabelecimento, data e categoria, que viram uma despesa no painel.
 
-![ReceiptAI](/scan.png)
+![ReceiptAI](scan.png)
 
 ## Telas
 
 | Dashboard | Histórico |
 |---|---|
-| ![Dashboard](/dashboard.png) | ![Histórico](/history.png) |
+| ![Dashboard](dashboard.png) | ![Histórico](history.png) |
 
-| Insights | Mobile |
-|---|---|
-| ![Insights](/insights.png) | <img src="/mobile.png" width="260"> |
+### Insights e Mobile
 
-## Como a IA entra no fluxo
+<p align="center">
+  <img src="insights.png" height="420">
+  &nbsp;&nbsp;
+  <img src="mobile.png" height="420">
+</p>
 
 ```
 Foto do recibo (JPG/PNG/WEBP, até 10 MB)
